@@ -7,9 +7,9 @@ iOS Hangman game that uses movie titles or dictionnary words from the OMDB API. 
 ## Screenshots
 
 <p align="center=">
-  <img src="images/CluePage.png" width="300" alt="Clue page">
-  <img src="images/GameView.png" width="300" alt="Game view">
-  <img src="images/GameOver.png" width="300" alt="Game Over">
+  <img src="images/CluePage.png" width="200" alt="Clue page">
+  <img src="images/GameView.png" width="200" alt="Game view">
+  <img src="images/GameOver.png" width="200" alt="Game Over">
 </p>
 
 ## Technologies
