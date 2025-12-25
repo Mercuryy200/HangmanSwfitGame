@@ -4,6 +4,14 @@
 
 iOS Hangman game that uses movie titles or dictionnary words from the OMDB API. Players guess letters to reveal the movie title before the hangman is complete.
 
+## Screenshots
+
+<p align="center=">
+  <img src="images/CluePage.png" width="300" alt="Clue page">
+  <img src="images/GameView.png" width="300" alt="Game view">
+  <img src="images/GameOver.png" width="300" alt="Game Over">
+</p>
+
 ## Technologies
 
 - Swift 5
@@ -86,7 +94,6 @@ HangmanGame/
 │           └── 6_jambe_droite.imageset
 └── Base.lproj/
 ```
-## Showcase
 
 ## Contact
 
