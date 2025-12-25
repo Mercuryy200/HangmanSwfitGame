@@ -10,23 +10,10 @@
 		41CD56DC2D06B1020063D9E5 /* NAFr_2028472_labo03.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NAFr_2028472_labo03.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		41CD56EE2D06B1030063D9E5 /* Exceptions for "NAFr_2028472_labo03" folder in "NAFr_2028472_labo03" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 41CD56DB2D06B1020063D9E5 /* NAFr_2028472_labo03 */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		41CD56DE2D06B1020063D9E5 /* NAFr_2028472_labo03 */ = {
+		41CD56DE2D06B1020063D9E5 /* HangmanGame */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				41CD56EE2D06B1030063D9E5 /* Exceptions for "NAFr_2028472_labo03" folder in "NAFr_2028472_labo03" target */,
-			);
-			path = NAFr_2028472_labo03;
+			path = HangmanGame;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -45,7 +32,7 @@
 		41CD56D32D06B1020063D9E5 = {
 			isa = PBXGroup;
 			children = (
-				41CD56DE2D06B1020063D9E5 /* NAFr_2028472_labo03 */,
+				41CD56DE2D06B1020063D9E5 /* HangmanGame */,
 				41CD56DD2D06B1020063D9E5 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -74,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				41CD56DE2D06B1020063D9E5 /* NAFr_2028472_labo03 */,
+				41CD56DE2D06B1020063D9E5 /* HangmanGame */,
 			);
 			name = NAFr_2028472_labo03;
 			packageProductDependencies = (
@@ -98,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 41CD56D72D06B1020063D9E5 /* Build configuration list for PBXProject "NAFr_2028472_labo03" */;
+			buildConfigurationList = 41CD56D72D06B1020063D9E5 /* Build configuration list for PBXProject "HangmanGame" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -316,7 +303,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		41CD56D72D06B1020063D9E5 /* Build configuration list for PBXProject "NAFr_2028472_labo03" */ = {
+		41CD56D72D06B1020063D9E5 /* Build configuration list for PBXProject "HangmanGame" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				41CD56F22D06B1030063D9E5 /* Debug */,
